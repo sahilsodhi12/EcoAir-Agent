@@ -675,10 +675,9 @@ Possible extensions include:
 
 # 👨‍💻 Author
 
-**Shiven Pratap Singh**
+**Sahil Sodhi**
 
-B.Tech Computer Science & Engineering  
-3rd Year
+
 
 ---
 
